@@ -1,4 +1,4 @@
-# Math22Project
+# Discrete-Project
 Discrete Mathematics Project on Cryptography
 
 ## Project Title:
